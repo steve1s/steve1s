@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Stephen Jalem
-
+📫 Reach me on stephensandeep8@gmail.com
 <!--
 **steve1s/steve1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
