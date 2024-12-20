@@ -3,6 +3,9 @@
 I'm Stephen Jalem
 
 - 📫 Reach me on stephensandeep8@gmail.com
+- 👯 I’m looking to collaborate on Deep Learning
+- 🌱 I’m currently learning New Technologies
+- 😄 Pronouns: He/Him
 <!--
 **steve1s/steve1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
