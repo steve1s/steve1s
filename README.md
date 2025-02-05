@@ -14,7 +14,7 @@ When I'm not working on AI projects, you'll often find me creating beats, mixing
 - **Programming Languages**: Python, R, MATLAB, JavaScript  
 - **AI & ML Tools**: TensorFlow, PyTorch, Scikit-learn, OpenCV  
 - **Data Skills**: Pandas, NumPy, SQL, Data Visualization  
-- **Other Tools**: Docker, Git, VS Code  
+- **Other Tools**: Docker, Git, VS Code, Jupyter Notebook, Anaconda 
 
 ---
 
