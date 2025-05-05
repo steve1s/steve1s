@@ -38,7 +38,7 @@ Photography is my way of expressing creativity. I enjoy landscape, street, and p
 
 ### 📫 Let's Connect
 - **GitHub**: [github](https://github.com/steve1s)  
-- **Email**: stephensandeep8@gmail.com
+- **Email**: [gmail](stephensandeep8@gmail.com)
 - **Instagram**: [Instagram](https://instagram.com/stevyn_j?igsh=MXV2cnp2MW94ZHR3cQ%3D%3D&utm_source=qr )
 
 ---
